@@ -1,0 +1,20 @@
+@media only screen and (min-width:712px) and (max-width:1128) {
+    
+
+div{
+    border: 10px solid green;
+    height: 11cm;
+    width: 25cm;
+    padding: 10px;
+    margin: 10px;
+    background-color: chartreuse;
+}
+
+.flex{
+    display: flex;
+   border: 2px solid black;
+}
+.tab{
+    display: flex;
+}
+}
